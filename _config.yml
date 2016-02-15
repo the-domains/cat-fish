@@ -1,7 +1,5 @@
-layout_spectrum: 0
 color:
   saturation: 0.2133205
-  lightness: 0.8775657
   brandStrength: 0.4119849
   rhythmicContrast: 0.3154798
   brandColors:
@@ -10,5 +8,19 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  lightness: 0.8775657
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
 typography_spectrum: 0.8601316
 name: 'Cat & Fish'
