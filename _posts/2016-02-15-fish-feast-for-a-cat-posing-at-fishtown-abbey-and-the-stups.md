@@ -1,19 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:c5febd65-8f76-4728-8670-b025979bafe6'
 author: []
-datePublished: '2016-02-15T08:28:13.558Z'
+datePublished: '2016-02-15T08:34:52.893Z'
 publisher:
   name: ''
   domain: ''
+  url: null
+  favicon: null
 title: 'Fish feast for a cat, posing at Fishtown Abbey and the Stupsnasen Conspiracy'
-dateModified: '2016-02-15T08:27:55.594Z'
-starred: false
+dateModified: '2016-02-15T08:34:43.082Z'
+starred: true
 sourcePath: _posts/2016-02-15-fish-feast-for-a-cat-posing-at-fishtown-abbey-and-the-stups.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: fish-feast-for-a-cat-posing-at-fishtown-abbey-and-the-stups/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
