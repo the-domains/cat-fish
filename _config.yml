@@ -1,14 +1,7 @@
-color:
-  saturation: 0.2133205
-  brandStrength: 0.4119849
-  rhythmicContrast: 0.3154798
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.8775657
+name: Bout Cat and Fish
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.8601316
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0
-typography_spectrum: 0.8601316
-name: 'Cat & Fish'
+title: "A Fish's journal of discoveries with his Adventure Cat"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4119849
+  lightness: 0.8775657
+  saturation: 0.2133205
+  rhythmicContrast: 0.3154798
+purpose: []
